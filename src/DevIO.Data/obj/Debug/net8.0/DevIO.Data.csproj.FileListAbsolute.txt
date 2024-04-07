@@ -1,0 +1,17 @@
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/bin/Debug/net8.0/DevIO.Data.deps.json
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/bin/Debug/net8.0/DevIO.Data.runtimeconfig.json
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/bin/Debug/net8.0/DevIO.Data.dll
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/bin/Debug/net8.0/DevIO.Data.pdb
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/bin/Debug/net8.0/DevIO.Business.dll
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/bin/Debug/net8.0/DevIO.Business.pdb
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.csproj.AssemblyReference.cache
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.AssemblyInfoInputs.cache
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.AssemblyInfo.cs
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.csproj.CoreCompileInputs.cache
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.csproj.Up2Date
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.dll
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/refint/DevIO.Data.dll
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.pdb
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/DevIO.Data.genruntimeconfig.cache
+/home/victormoraes/Desktop/Projetos/Api3Camadas/src/DevIO.Data/obj/Debug/net8.0/ref/DevIO.Data.dll

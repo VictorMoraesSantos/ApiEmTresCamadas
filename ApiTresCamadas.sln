@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIO.Data", "src\DevIO.Data\DevIO.Data.csproj", "{D24BC60C-81DD-425B-880B-70C547453703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIO.Business", "src\DevIO.Business\DevIO.Business.csproj", "{5D068D31-CE86-4150-9E2C-171955D29180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIO.Api", "src\DevIO.Api\DevIO.Api.csproj", "{66FC9B94-0A7E-4E88-A4A7-282A9998CE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24BC60C-81DD-425B-880B-70C547453703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24BC60C-81DD-425B-880B-70C547453703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24BC60C-81DD-425B-880B-70C547453703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24BC60C-81DD-425B-880B-70C547453703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D068D31-CE86-4150-9E2C-171955D29180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D068D31-CE86-4150-9E2C-171955D29180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D068D31-CE86-4150-9E2C-171955D29180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D068D31-CE86-4150-9E2C-171955D29180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FC9B94-0A7E-4E88-A4A7-282A9998CE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FC9B94-0A7E-4E88-A4A7-282A9998CE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FC9B94-0A7E-4E88-A4A7-282A9998CE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FC9B94-0A7E-4E88-A4A7-282A9998CE65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
